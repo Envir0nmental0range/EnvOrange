@@ -1,9 +1,14 @@
 # 
 #add to inventory
+
 #Set and print to check the starting inventory and first loot
+
 playerinv = {'gold coin': 42, 'rope': 1}
+
 print("Initial player inventory: ")
+
 print(playerinv)
+
 dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
 print("Loot from Dragon: ")
 print(dragonLoot)
